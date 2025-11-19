@@ -1,0 +1,2 @@
+/dev/pty0
+/c/Users/junaid/Desktop/linuxLabQue
